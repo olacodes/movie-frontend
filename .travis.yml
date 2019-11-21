@@ -7,7 +7,7 @@ script:
 deploy:
   provider: heroku
   api_key:
-    secure: $heroku-key
+    secure: 5f3cd158-5593-4eeb-a28d-6753dd9b10ad
   app: movie-testing
   on:
     repo: olacodes/movie-recomendation-testing
