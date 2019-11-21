@@ -10,4 +10,4 @@ deploy:
     secure: $heroku-key
   app: movie-testing
   on:
-    repo: olacodes/movie-testing
+    repo: olacodes/movie-recomendation-testing
